@@ -4,8 +4,8 @@
   This is a repository that mainly contains some codes used for the Computer Graphics course(openGL).The main development environment is vs2010 and libraries related to openGL.<br>
   这个仓库主要是用作计算机图形学相关代码的存贮。主要的开发环境为vs2010以及openGL相关库。
 
-#Attention 注意
-  most of the comments are written in Chinese 大部分的注释都是中文的！
+####Attention：most of the comments are written in Chinese!
+
 --------------------------------------
 ##Homework 1 RequireMents 作业1要求
   * 1.1
